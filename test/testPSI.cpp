@@ -1,6 +1,8 @@
 /*
  * testPSI.cpp
  *
+ * Copyright (C) 2011-2012 Mark Hatton
+ *
  *  Created on: 22 Jan 2011
  *      Author: hatton.mark@gmail.com
  */
