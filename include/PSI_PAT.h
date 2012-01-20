@@ -2,7 +2,7 @@
  * PSI_PAT.h
  *
  *  Created on: 23 Jan 2011
- *      Author: purple
+ *      Author: hatton.mark@gmail.com
  */
 
 #ifndef LIBTS_PSI_PAT_H_

@@ -2,7 +2,7 @@
  * testPSI.cpp
  *
  *  Created on: 22 Jan 2011
- *      Author: purple
+ *      Author: hatton.mark@gmail.com
  */
 
 #include "../include/Packet.h"

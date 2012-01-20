@@ -2,7 +2,7 @@
  * PSI.h
  *
  *  Created on: 16 Jan 2011
- *      Author: purple
+ *      Author: hatton.mark@gmail.com
  */
 
 #ifndef LIBTS_PSI_H_
