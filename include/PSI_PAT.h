@@ -1,6 +1,8 @@
 /*
  * PSI_PAT.h
  *
+ * Copyright (C) 2011-2012 Mark Hatton
+ *
  *  Created on: 23 Jan 2011
  *      Author: hatton.mark@gmail.com
  */
