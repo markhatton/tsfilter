@@ -15,7 +15,12 @@
 #include <iostream>
 #include <vector>
 #include <stdint.h>
+#ifdef _ALLBSD_SOURCE
 #include <machine/endian.h>
+#elif __linux__
+#include <endian.h>
+#endif
+#include <netinet/in.h>
 
 namespace libts
 {
